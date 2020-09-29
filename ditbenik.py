@@ -34,3 +34,17 @@ A
 >>> print("Dat is correct")
 Dat is correct
 >>> 
+>>> print ("Welke 2 sporten doe ik")
+Welke 2 sporten doe ik
+>>> print ("a. Voetbal")
+a. Voetbal
+>>> print ("b. honkbal")
+b. honkbal
+>>> print ("c. basketball")
+c. basketball
+>>> input()
+a&b
+'a&b'
+>>> print ("dat is correct")
+dat is correct
+>>> 
